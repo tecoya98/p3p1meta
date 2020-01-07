@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p3p1meta</string>
+    <string name="t1">Ingrese su nombre</string>
+    <string name="t2">Nombre</string>
+    <string name="btgrabar">Grabar</string>
+    <string name="t3">Contenido</string>
+    <string name="cargar">cargar</string>
+</resources>
